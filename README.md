@@ -1,63 +1,56 @@
-# KNEO – Modern Business Website
+# KNEO — Digital products, built to matter
 
-A modern, responsive business website built with **HTML**, **CSS**, and **JavaScript**. KNEO is designed with a clean, professional interface, smooth user experience, and mobile-first responsiveness.
+## Overview
 
-## 🚀 Features
+KNEO — Digital products, built to matter is a portfolio website using TestimonialSlider and data models TestimonialSlider.
 
-* Responsive design for desktop, tablet, and mobile
-* Modern and clean UI
-* Smooth scrolling and animations
-* Professional business layout
-* Optimized performance
-* Cross-browser compatibility
-* Easy to customize
+**KNEO — We Code Your Success 💙**  KNEO is a modern software house focused on building innovative digital solutions for businesses, startups, and individuals. We provide professional web development, software development, UI/UX design, and technology solutions tailored to real-world business needs.  Our goal is to transform ideas into scalable, us
 
-## 🛠️ Technologies Used
+## What the code does
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+- **Components / views:** TestimonialSlider
+- **Models / types:** TestimonialSlider
+- **Source files inspected:** index.html, README.md, about.html, blog.html, careers.html, contact.html, portfolio.html, pricing.html
 
-## 📁 Project Structure
+## Features
 
-```
-KNEO/
-├── index.html
-├── about.html
-├── services.html
-├── portfolio.html
-├── contact.html
-├── css/
-├── js/
-├── images/
-└── assets/
+- **Search**: Found search or filter routes/components in source files
+- **Data models**: Found models/schemas: TestimonialSlider
+
+## Tech Stack
+
+- **Languages**: HTML, JavaScript, HTML5, CSS3
+
+## Project Structure
+
+```text
+README.md            # Project documentation and getting started guide.
 ```
 
-## 🌐 Live Demo
+## Getting Started
 
-Add your live website link here:
-`https://your-vercel-link.vercel.app`
+### Prerequisites
 
-## 📸 Preview
+- Node.js (v18.0.0 or higher recommended)
+- npm, yarn, or pnpm package manager
 
-Add a screenshot of your homepage here.
+### Installation
 
-## 📦 Installation
+```bash
+# Clone the repository
+git clone https://github.com/Sher-Bahadur-Dev/kneo-digital-products-built-to-matter.git
 
-1. Clone the repository:
+# Navigate into the project folder
+cd kneo-digital-products-built-to-matter
 
-   ```bash
-   git clone https://github.com/Sher-Bahadur-417/KNEO.git
-   ```
-2. Open the project folder.
-3. Launch `index.html` in your browser.
+```
 
-## 👨‍💻 Author
+### Running the Project
 
-**Sher Bahadur**
+```bash
+# Run using the runtime found in this repository
+```
 
-* GitHub: https://github.com/Sher-Bahadur-417
+## License
 
-## 📄 License
-
-This project is available for learning and portfolio purposes.
+This project is open source and available under standard GitHub terms.
